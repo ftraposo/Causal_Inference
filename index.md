@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Course on Causal Inference.
 
 You can use the [editor on GitHub](https://github.com/ftraposo/Causal-Inference/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
